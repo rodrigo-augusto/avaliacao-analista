@@ -10,9 +10,6 @@ public class Principal {
 		 * (7)[10] (6)[20]  (5)[30] (4)[40]
 		 *	  (3)[50]    		(2)[60]
 		 *			   (1)[70]
-		 *	
-		 *
-		 *
 		 */
 		
 		BinaryTree n7 = new BinaryTree(10);
